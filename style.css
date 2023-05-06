@@ -1,0 +1,109 @@
+body{
+}
+.navbar {
+}
+.navbar-expand-lg {
+}
+.bg-body-tertiary {
+}
+.container-fluid {
+    background-color: rgb(48, 232, 16);
+}
+.navbar-brand {
+    color: red;
+    font-weight: 600;
+    font-family: cursive;
+}
+.navbar-toggler {
+}
+.navbar-toggler-icon {
+}
+.collapse {
+}
+.navbar-collapse {
+}
+.navbar-nav {
+}
+.me-auto {
+}
+.mb-2 {
+}
+.mb-lg-0 {
+}
+.nav-item {
+}
+.nav-link {
+    color: blue;
+}
+.active {
+    color: blue;
+}
+.dropdown {
+}
+.dropdown-toggle {
+}
+.dropdown-menu {
+    color: greenyellow;
+}
+.dropdown-item {
+    color: greenyellow;
+}
+.dropdown-divider {
+}
+.disabled {
+}
+.d-flex {
+}
+.form-control {
+    background-color: chartreuse;
+}
+.me-2 {
+}
+.btn {
+}
+.btn-outline-success {
+}
+.accordion {
+}
+.accordion-flush {
+}
+.accordion-item {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.accordion-header {
+}
+.accordion-button {
+}
+.collapsed {
+    color: rgb(51, 200, 21);
+}
+.accordion-collapse {
+}
+.accordion-body {
+    color: aqua;
+}
+.card {
+    left: 600px;
+    top: 80px;
+    background-color: chocolate;
+}
+.card-img-top {
+}
+.card-body {
+}
+.card-title {
+    font-family: sans-serif;
+    font-weight: 400px;
+    color: darkmagenta;
+}
+.card-text {
+    color: black;
+}
+.btn {
+}
+.btn-primary {
+    color: black;
+    background-color: cyan;
+}
